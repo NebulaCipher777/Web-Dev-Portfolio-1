@@ -1,6 +1,3 @@
-# Web-Dev-Portfolio-1
-A responsive photography portfolio website layout optimized using advanced CSS visual rules, typography settings, and box-model layouts
-
 # Photography Portfolio Project
 
 A responsive photography portfolio website layout optimized using CSS visual rules, typography settings, and box-model properties. This project focuses on refining raw HTML with clean, maintainable presentation rules.
